@@ -4,3 +4,4 @@ processori
 Elettronica Padovana
 
 ## Componenti
+## Periferiche 
